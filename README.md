@@ -1,2 +1,2 @@
 # fortnite-dance-bot
-Bot for a IRL dancing fornite stream
+Bot for randomly picking a video for a friends IRL fornite dances charity stream
